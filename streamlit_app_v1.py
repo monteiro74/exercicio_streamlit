@@ -3,7 +3,7 @@
 # Dashboard de Vendas (tema padrão, sem dark)
 # Lê: vendas_dashboard.csv (delimitador ;)
 # Recursos: KPIs extras, indicadores por categoria do cliente,
-# gráficos empilhados (um abaixo do outro), mapas Plotly e Folium (opcional)
+# gráficos empilhados (um abaixo do outro), mapas Plotly e Folium (opcional).
 # ------------------------------------------------------------
 
 import os
